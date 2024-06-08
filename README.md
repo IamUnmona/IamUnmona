@@ -1,12 +1,9 @@
 ### Unmona Das
 
-
 **Contact**: 623-284-4870  
 **Email**: [unmona.das@utdallas.edu](mailto:unmona.das@utdallas.edu)  
 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/unmonadas/)  
 **Portfolio**: [Unmona Das Data Science Portfolio](https://www.datascienceportfol.io/UnmonaDas)
-
-
 
 **Location**: Dallas, Texas
 
@@ -15,10 +12,8 @@
 #### Professional Summary
 As a seasoned Business and Data Analytics professional, I have enhanced business operations through strategic data-driven insights and technology solutions at DG Printers and Traders, an early stage startup in Assam, India. My expertise in data visualization, predictive analytics, and strategic business planning is backed by a robust academic foundation from the University of Texas at Dallas. I have led multiple initiatives that drove significant improvements in production efficiency, client satisfaction, and market growth through the adept use of analytical tools and methodologies.
 
-
 ---
 
-#### Skills
 ### Skills Summary
 
 <table>
