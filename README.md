@@ -21,66 +21,72 @@ As a seasoned Business and Data Analytics professional, I have enhanced business
 #### Skills
 ### Skills Summary
 
-#### Programming
-- Python
-- MySQL
-- PostgreSQL
-- R
-
-#### Data Analytics and Visualization
-- Tableau
-- Power BI
-- AWS S3
-- Amazon Redshift
-- Google Analytics
-- SAP
-- Pivot Tables
-- Solver
-- @Risk
-- Minitab
-- VLOOKUP
-- Stat Tools
-- Microsoft Office (Word, PowerPoint, Outlook, Excel)
-- SharePoint
-- Scikit Learn
-- NumPy
-- Pandas
-- Matplotlib
-- NLTK
-- IBM SPSS
-- Lean Six Sigma
-- Snowflake
-- Big Query
-- Looker Studio
-- Salesforce CRM
-
-#### Statistics & Methods
-- Regression Models
-- Random Forest
-- Decision Tree
-- Statistical Modeling
-- Text Mining
-
-#### Project Management
-- Quip
-- Jira
-- GitHub
-- Scrum
-- Agile Methodology
-- Google Suite
-
-#### Core Competencies
-- Data Analysis
-- Data Modelling
-- Predictive Analytics
-- Statistical Analysis
-- Descriptive and Prescriptive Analytics
-- Data Mining
-- Data Visualization
-- Machine Learning
-- Program Management
-- Risk Analysis
-
+<table>
+<tr>
+<th>Programming</th>
+<th>Data Analytics and Visualization</th>
+<th>Statistics & Methods</th>
+<th>Project Management</th>
+<th>Core Competencies</th>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Python</li>
+<li>MySQL</li>
+<li>PostgreSQL</li>
+<li>R</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Tableau</li>
+<li>Power BI</li>
+<li>AWS S3</li>
+<li>Amazon Redshift</li>
+<li>Google Analytics</li>
+<li>Looker Studio</li>
+<li>Snowflake</li>
+<li>Big Query</li>
+<li>Microsoft Suite</li>
+<li>Salesforce CRM</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Regression Models</li>
+<li>Random Forest</li>
+<li>Decision Tree</li>
+<li>Statistical Modeling</li>
+<li>Text Mining</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Quip</li>
+<li>Jira</li>
+<li>GitHub</li>
+<li>Scrum</li>
+<li>Agile Methodology</li>
+<li>Google Suite</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Data Analysis</li>
+<li>Data Modelling</li>
+<li>Predictive Analytics</li>
+<li>Statistical Analysis</li>
+<li>Descriptive and Prescriptive Analytics</li>
+<li>Data Mining</li>
+<li>Data Visualization</li>
+<li>Machine Learning</li>
+<li>Program Management</li>
+<li>Risk Analysis</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ---
 
