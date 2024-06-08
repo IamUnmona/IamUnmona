@@ -11,7 +11,7 @@
 
 #### Professional Summary
 As a seasoned Business and Data Analytics professional, I have enhanced business operations through strategic data-driven insights and technology solutions at DG Printers and Traders, an early stage startup in Assam, India. My expertise in data visualization, predictive analytics, and strategic business planning is backed by a robust academic foundation from the University of Texas at Dallas. I have led multiple initiatives that drove significant improvements in production efficiency, client satisfaction, and market growth through the adept use of analytical tools and methodologies.
-I am enthusiastic about connecting with professionals who share similar interests, exchanging insights, and pursuing collaborative opportunities that meld consulting acumen with the innovative possibilities of data science.
+I am enthusiastic about connecting with professionals who share similar interests, exchanging insights, and pursuing collaborative opportunities with the innovative possibilities of data science.
 
 ---
 
