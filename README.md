@@ -5,7 +5,7 @@
 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/unmonadas/)  
 **Portfolio**: [Unmona Das Data Science Portfolio](https://www.datascienceportfol.io/UnmonaDas)
 
-**Location**: Dallas, Texas
+**Location**: Texas, USA
 
 ---
 
