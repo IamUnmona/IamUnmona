@@ -1,6 +1,6 @@
 ### Unmona Das
 
-**Contact**: 623-284-4870  
+**Contact**: +1 623-284-4870  
 **Email**: [unmona.das@utdallas.edu](mailto:unmona.das@utdallas.edu)  
 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/unmonadas/)  
 **Portfolio**: [Unmona Das Data Science Portfolio](https://www.datascienceportfol.io/UnmonaDas)
