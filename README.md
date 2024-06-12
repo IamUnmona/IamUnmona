@@ -1,9 +1,10 @@
 ### Unmona Das
 
 **Contact**: +1 623-284-4870  
-**Email**: [unmona.das@utdallas.edu](mailto:unmona.das@utdallas.edu)  
-**LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/unmonadas/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+<a href="mailto:unmona.das@utdallas.edu"><img src="https://simpleicons.org/icons/mail-dot-ru.svg" alt="Email" width="30"/></a>  
+<a href="https://www.linkedin.com/in/your-profile"><img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="30"/></a>  
+<img src="https://simpleicons.org/icons/location.svg" alt="Location" width="30"/> Texas, USA
+
 
 
 **Location**: Texas, USA
