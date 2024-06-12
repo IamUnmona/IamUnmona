@@ -3,6 +3,8 @@
 **Contact**: +1 623-284-4870  
 **Email**: [unmona.das@utdallas.edu](mailto:unmona.das@utdallas.edu)  
 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/unmonadas/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+
 **Portfolio**: [Unmona Das Data Science Portfolio](https://www.datascienceportfol.io/UnmonaDas)
 
 **Location**: Texas, USA
