@@ -53,9 +53,6 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 | **Risk Analysis**             | Identifying and analyzing potential risks.              | Experienced      |
 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamUnmona&show_icons=true&theme=radical)
-
 ## 🔤 Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamUnmona&layout=compact&theme=vue)
 
