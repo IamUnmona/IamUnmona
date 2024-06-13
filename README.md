@@ -1,6 +1,6 @@
 ### Unmona Das
 
-![Creative Portfolio](/Users/unmonadas/Desktop/11-ezgif.com-optimize.gif)
+![Creative Portfolio](https://github.com/IamUnmona/IamUnmona/blob/main/11-ezgif.com-optimize.gif)
 
 
 **Contact**: +1 623-284-4870  
