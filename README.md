@@ -60,7 +60,8 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamUnmona&layout=compact&theme=vue)
 
 ## 📞 Get in Touch
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Unmona_Das-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/unmona-das)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Unmona_Das-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/unmonadas/)
+
 - **Email:** [unmona.das@utdallas.edu](mailto:unmona.das@utdallas.edu)
 
 ## 👀 Profile Views
