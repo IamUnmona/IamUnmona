@@ -23,22 +23,20 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 
 ## Skills Summary
 
-### Languages
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
+### Programming
+| <img src="https://simpleicons.org/icons/python.svg" alt="Python3" width="30"/> Python3 | <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="30"/> MySQL | <img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="30"/> PostgreSQL | <img src="https://simpleicons.org/icons/r.svg" alt="R" width="30"/> R |
 |:---:|:---:|:---:|:---:|
 
 ### Data Analytics and Visualization
-| ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white) |
+| <img src="https://simpleicons.org/icons/tableau.svg" alt="Tableau" width="30"/> Tableau | <img src="https://simpleicons.org/icons/powerbi.svg" alt="Power BI" width="30"/> Power BI | <img src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS S3" width="30"/> AWS S3 | <img src="https://simpleicons.org/icons/amazonredshift.svg" alt="Amazon Redshift" width="30"/> Amazon Redshift |
 |:---:|:---:|:---:|:---:|
+| <img src="https://simpleicons.org/icons/googleanalytics.svg" alt="Google Analytics" width="30"/> Google Analytics | <img src="https://simpleicons.org/icons/looker.svg" alt="Looker" width="30"/> Looker | <img src="https://simpleicons.org/icons/snowflake.svg" alt="Snowflake" width="30"/> Snowflake | <img src="https://simpleicons.org/icons/googlebigquery.svg" alt="BigQuery" width="30"/> BigQuery |
+| <img src="https://simpleicons.org/icons/microsoft.svg" alt="Microsoft Suite" width="30"/> Microsoft Suite | <img src="https://simpleicons.org/icons/salesforce.svg" alt="Salesforce" width="30"/> Salesforce CRM |
 
-### Frameworks and Libraries
-| ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+### Project Management
+| <img src="https://simpleicons.org/icons/quip.svg" alt="Quip" width="30"/> Quip | <img src="https://simpleicons.org/icons/jira.svg" alt="Jira" width="30"/> Jira | <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="30"/> GitHub | <img src="https://simpleicons.org/icons/scrumpowered.svg" alt="Scrum" width="30"/> Scrum |
 |:---:|:---:|:---:|:---:|
-
-### Tools for Data Manipulation
-| ![Conda](https://img.shields.io/badge/-Conda-342B029?style=flat-square&logo=anaconda&logoColor=white) | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-|:---:|:---:|:---:|:---:|
-
+| <img src="https://simpleicons.org/icons/google.svg" alt="Google Suite" width="30"/> Google Suite |
 
 ### Core Competencies
 - Data Analysis
@@ -50,8 +48,6 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 - Machine Learning
 - Program Management
 - Risk Analysis
-
-
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=iamUnmona&show_icons=true&theme=radical)
