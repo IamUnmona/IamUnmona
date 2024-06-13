@@ -61,13 +61,29 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 
 
 
-
 ```mermaid
 graph TD;
-    DA[Data Analysis] --> DM[Data Modelling]
-    DM --> SA[Statistical Analysis]
-    SA --> DPA[Descriptive & Prescriptive Analytics]
-    DPA --> DV[Data Visualization]
-    DV --> ML[Machine Learning]
-    ML --> PM[Program Management]
-    PM --> RA[Risk Analysis]
+    DA[Data Analysis] -->|leads to| DM[Data Modelling]
+    DM -->|leads to| SA[Statistical Analysis]
+    SA -->|leads to| DPA[Descriptive & Prescriptive Analytics]
+    DPA -->|leads to| DV[Data Visualization]
+    DV -->|leads to| ML[Machine Learning]
+    ML -->|leads to| PM[Program Management]
+    PM -->|leads to| RA[Risk Analysis]
+    style DA fill:#f9f,stroke:#333,stroke-width:2px
+    style DM fill:#f9f,stroke:#333,stroke-width:2px
+    style SA fill:#f9f,stroke:#333,stroke-width:2px
+    style DPA fill:#f9f,stroke:#333,stroke-width:2px
+    style DV fill:#f9f,stroke:#333,stroke-width:2px
+    style ML fill:#f9f,stroke:#333,stroke-width:2px
+    style PM fill:#f9f,stroke:#333,stroke-width:2px
+    style RA fill:#f9f,stroke:#333,stroke-width:2px
+
+
+
+
+
+
+
+
+
