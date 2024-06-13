@@ -22,32 +22,48 @@
 I'm a data science enthusiast who is passionate about using technology to solve real-world problems. With a strong foundation in statistical analysis and programming, I aim to leverage machine learning to uncover hidden insights and drive efficient decisions.
 
 ## Skills Summary
-
 ## Skills Summary
 
-### Programming Languages
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30"/>
-<img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="30"/>
-<img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="30"/>
-<img src="https://simpleicons.org/icons/r.svg" alt="R" width="30"/>
+### Languages and Tools
 
-### Data Analytics and Visualization
-<img src="https://simpleicons.org/icons/tableau.svg" alt="Tableau" width="30"/>
-<img src="https://simpleicons.org/icons/powerbi.svg" alt="Power BI" width="30"/>
-<img src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS" width="30"/>
-<img src="https://simpleicons.org/icons/googleanalytics.svg" alt="Google Analytics" width="30"/>
-<img src="https://simpleicons.org/icons/looker.svg" alt="Looker" width="30"/>
-<img src="https://simpleicons.org/icons/snowflake.svg" alt="Snowflake" width="30"/>
-<img src="https://simpleicons.org/icons/bigquery.svg" alt="BigQuery" width="30"/>
-<img src="https://simpleicons.org/icons/microsoftoffice.svg" alt="Microsoft Suite" width="30"/>
-<img src="https://simpleicons.org/icons/salesforce.svg" alt="Salesforce" width="30"/>
+| Type                | Technologies |
+|---------------------|--------------|
+| **Languages**       | <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30"/> Python |
+|                     | <img src="https://simpleicons.org/icons/c.svg" alt="C" width="30"/> C |
+|                     | <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="30"/> JavaScript |
+|                     | <img src="https://simpleicons.org/icons/solidity.svg" alt="Solidity" width="30"/> Solidity |
+| **Data Manipulation** | <img src="https://simpleicons.org/icons/anaconda.svg" alt="Conda" width="30"/> Conda |
+|                     | <img src="https://simpleicons.org/icons/jupyter.svg" alt="Jupyter" width="30"/> Jupyter |
+|                     | <img src="https://simpleicons.org/icons/apache-spark.svg" alt="Spark" width="30"/> Spark |
+|                     | <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="30"/> MySQL |
+|                     | <img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="30"/> PostgreSQL |
+|                     | <img src="https://simpleicons.org/icons/sqlite.svg" alt="SQLite" width="30"/> SQLite |
 
-### Project Management
-<img src="https://simpleicons.org/icons/quip.svg" alt="Quip" width="30"/>
-<img src="https://simpleicons.org/icons/jira.svg" alt="Jira" width="30"/>
-<img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="30"/>
-<img src="https://simpleicons.org/icons/scrumpowered.svg" alt="Scrum" width="30"/>
-<img src="https://simpleicons.org/icons/google.svg" alt="Google Suite" width="30"/>
+### Best Frameworks and Main Libraries for Python3
+
+| Frameworks/Libraries  | Description |
+|-----------------------|-------------|
+| <img src="https://simpleicons.org/icons/pytorch.svg" alt="PyTorch" width="30"/> PyTorch | Deep learning framework that puts Python first |
+| <img src="https://simpleicons.org/icons/selenium.svg" alt="Selenium" width="30"/> Selenium | Browser automation framework |
+| <img src="https://simpleicons.org/icons/numpy.svg" alt="NumPy" width="30"/> NumPy | Fundamental package for scientific computing |
+| <img src="https://simpleicons.org/icons/pandas.svg" alt="Pandas" width="30"/> Pandas | High-performance data structures |
+| <img src="https://simpleicons.org/icons/scikitlearn.svg" alt="Scikit-Learn" width="30"/> Scikit-Learn | Machine learning library |
+| <img src="https://simpleicons.org/icons/matplotlib.svg" alt="Matplotlib" width="30"/> Matplotlib | Plotting library |
+| <img src="https://simpleicons.org/icons/opencv.svg" alt="OpenCV" width="30"/> OpenCV | Open Source Computer Vision Library |
+
+### Environments, Testing, and Other Tools
+
+| Category  | Tools |
+|-----------|-------|
+| **Environments** | <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="Node.js" width="30"/> Node.js |
+| **Version Control** | <img src="https://simpleicons.org/icons/git.svg" alt="Git" width="30"/> Git |
+| **Containers** | <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="30"/> Docker |
+| **Testing** | <img src="https://simpleicons.org/icons/pytest.svg" alt="Pytest" width="30"/> Pytest |
+| **APIs** | <img src="https://simpleicons.org/icons/swagger.svg" alt="Swagger" width="30"/> Swagger |
+| **Networking** | <img src="https://simpleicons.org/icons/postman.svg" alt="Postman" width="30"/> Postman |
+| **Virtualization** | <img src="https://simpleicons.org/icons/virtualbox.svg" alt="VirtualBox" width="30"/> VirtualBox |
+| **Blockchain** | <img src="https://simpleicons.org/icons/hardhat.svg" alt="Hardhat" width="30"/> Hardhat |
+
 
 ### Core Competencies
 - Data Analysis
