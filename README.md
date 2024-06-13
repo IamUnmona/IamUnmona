@@ -24,6 +24,10 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 ## Skills Summary
 
 ### Programming
+
+
+![Python3 Logo](https://github.com/IamUnmona/IamUnmona/blob/main/Python%20Software%20Foundation_idixzIbrOi_2.svg)
+
 | <img src="https://brandfetch.com/python.org?library=default&collection=logos&asset=idixzIbrOi&view=overview" alt="Python3" width="40"/> |
 
 https://brandfetch.com/python.org?library=default&collection=logos&asset=idixzIbrOi&view=overview
