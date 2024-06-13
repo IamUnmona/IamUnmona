@@ -6,102 +6,55 @@
 
 
 
-### Unmona Das
 
+<div align="center">
 
+# Hello, I'm Unmona Das! 👋
 
-**Contact**: +1 623-284-4870  
-<a href="mailto:unmona.das@utdallas.edu"><img src="https://simpleicons.org/icons/mail-dot-ru.svg" alt="Email" width="30"/></a>  
-<a href="https://www.linkedin.com/in/your-profile"><img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="30"/></a>  
-<img src="https://simpleicons.org/icons/location.svg" alt="Location" width="30"/> Texas, USA
+## Data Science Enthusiast | Explorer of AI and Machine Learning
 
+![Total Contributions](https://img.shields.io/badge/Total_Contributions-8361-ff69b4?style=flat-square)
+![Current Streak](https://img.shields.io/badge/Current_Streak-3-yellow?style=flat-square)
+![Longest Streak](https://img.shields.io/badge/Longest_Streak-16-blue?style=flat-square)
 
-
-**Location**: Texas, USA
-
----
-
-### Skills Summary
-
-<table>
-<tr>
-<th>Programming</th>
-<th>Data Analytics and Visualization</th>
-<th>Statistics & Methods</th>
-<th>Project Management</th>
-<th>Core Competencies</th>
-</tr>
-<tr>
-<td>
-<ul>
-<li>Python</li>
-<li>MySQL</li>
-<li>PostgreSQL</li>
-<li>R</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Tableau</li>
-<li>Power BI</li>
-<li>AWS S3</li>
-<li>Amazon Redshift</li>
-<li>Google Analytics</li>
-<li>Looker Studio</li>
-<li>Snowflake</li>
-<li>Big Query</li>
-<li>Microsoft Suite</li>
-<li>Salesforce CRM</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Regression Models</li>
-<li>Random Forest</li>
-<li>Decision Tree</li>
-<li>Statistical Modeling</li>
-<li>Text Mining</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Quip</li>
-<li>Jira</li>
-<li>GitHub</li>
-<li>Scrum</li>
-<li>Agile Methodology</li>
-<li>Google Suite</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>Data Analysis</li>
-<li>Data Modelling</li>
-<li>Predictive Analytics</li>
-<li>Statistical Analysis</li>
-<li>Descriptive and Prescriptive Analytics</li>
-<li>Data Mining</li>
-<li>Data Visualization</li>
-<li>Machine Learning</li>
-<li>Program Management</li>
-<li>Risk Analysis</li>
-</ul>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-#### Professional Summary
-As a seasoned Business and Data Analytics professional, I have enhanced business operations through strategic data-driven insights and technology solutions at DG Printers and Traders, an early stage startup in Assam, India. My expertise in data visualization, predictive analytics, and strategic business planning is backed by a robust academic foundation from the University of Texas at Dallas. I have led multiple initiatives that drove significant improvements in production efficiency, client satisfaction, and market growth through the adept use of analytical tools and methodologies.
-I am enthusiastic about connecting with professionals who share similar interests, exchanging insights, and pursuing collaborative opportunities with the innovative possibilities of data science.
+## 🚀 About Me
+I'm a data science enthusiast who is passionate about using technology to solve real-world problems. With a strong foundation in statistical analysis and programming, I aim to leverage machine learning to uncover hidden insights and drive efficient decisions.
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Tools-Tableau-blueviolet?style=for-the-badge&logo=tableau)
+![](https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge&logo=mysql)
+![](https://img.shields.io/badge/Platform-AWS-informational?style=for-the-badge&logo=amazon-aws)
+
+### Languages and Frameworks
+- **Languages**: Python, R, SQL
+- **Frameworks/Libraries**: NumPy, Pandas, Scikit-Learn, TensorFlow
+
+### Tools and Platforms
+- **Data Analysis**: Tableau, Power BI
+- **Cloud**: AWS S3, Google Cloud Platform
+- **Version Control**: Git, GitHub
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=iamUnmona&show_icons=true&theme=radical)
+
+## 📈 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamUnmona&layout=compact&theme=vue)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iamUnmona&theme=onedark)
 
 ---
 
-#### Education
+## 📬 Get in Touch
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Unmona_Das-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/unmonadas/)
+- Email: [unmona.das@utdallas.edu](mailto:unmona.das@utdallas.edu)
 
-**Master of Science in Business Analytics (MSBA)**, University of Texas at Dallas (Aug 2023 – May 2025)  
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=iamUnmona&style=flat-square&color=blueviolet)
 
-
----
 
