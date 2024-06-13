@@ -13,31 +13,37 @@
 
 ## Data Science Enthusiast | Explorer of AI and Machine Learning
 
-![Total Contributions](https://img.shields.io/badge/Total_Contributions-8361-ff69b4?style=flat-square)
-![Current Streak](https://img.shields.io/badge/Current_Streak-3-yellow?style=flat-square)
-![Longest Streak](https://img.shields.io/badge/Longest_Streak-16-blue?style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 About Me
+##  About Me
 I'm a data science enthusiast who is passionate about using technology to solve real-world problems. With a strong foundation in statistical analysis and programming, I aim to leverage machine learning to uncover hidden insights and drive efficient decisions.
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/Tools-Tableau-blueviolet?style=for-the-badge&logo=tableau)
-![](https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge&logo=mysql)
-![](https://img.shields.io/badge/Platform-AWS-informational?style=for-the-badge&logo=amazon-aws)
+## Skills Summary
 
-### Languages and Frameworks
-- **Languages**: Python, R, SQL
-- **Frameworks/Libraries**: NumPy, Pandas, Scikit-Learn, TensorFlow
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-### Tools and Platforms
-- **Data Analysis**: Tableau, Power BI
-- **Cloud**: AWS S3, Google Cloud Platform
-- **Version Control**: Git, GitHub
+### Data Analytics and Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+
+### Project Management
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-0081CB?style=flat-square&logo=scrumalliance&logoColor=white)
+
+### Core Competencies
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF9E0F?style=flat-square)
+![Data Modelling](https://img.shields.io/badge/Data_Modelling-FF6384?style=flat-square)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-FF6384?style=flat-square)
+
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=iamUnmona&show_icons=true&theme=radical)
@@ -45,10 +51,6 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 ## 📈 Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamUnmona&layout=compact&theme=vue)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamUnmona&theme=onedark)
-
----
 
 ## 📬 Get in Touch
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Unmona_Das-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/unmonadas/)
