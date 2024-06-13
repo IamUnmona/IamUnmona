@@ -24,7 +24,7 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 ## Skills Summary
 
 ### Programming
-<img src="https://brandfetch.com/python.org?library=default&collection=logos&asset=idixzIbrOi&view=overview" alt="Python3" width="40"/>
+| <img src="https://brandfetch.com/python.org?library=default&collection=logos&asset=idixzIbrOi&view=overview" alt="Python3" width="40"/> |
 
 https://brandfetch.com/python.org?library=default&collection=logos&asset=idixzIbrOi&view=overview
 | <img src="https://simpleicons.org/icons/python.svg" alt="Python3" width="30"/> Python3 | <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="30"/> MySQL | <img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="30"/> PostgreSQL | <img src="https://simpleicons.org/icons/r.svg" alt="R" width="30"/> R |
