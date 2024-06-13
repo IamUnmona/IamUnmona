@@ -28,15 +28,15 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 |:---:|:---:|:---:|:---:|
 
 ### Data Analytics and Visualization
-| <img src="URL_TO_TABLEAU_LOGO" alt="Tableau" width="40"/><br>Tableau | <img src="URL_TO_POWERBI_LOGO" alt="Power BI" width="40"/><br>Power BI | <img src="URL_TO_AWSS3_LOGO" alt="AWS S3" width="40"/><br>AWS S3 | <img src="URL_TO_AMAZONREDSHIFT_LOGO" alt="Amazon Redshift" width="40"/><br>Amazon Redshift |
+| <img src="https://github.com/IamUnmona/IamUnmona/blob/main/Tableau_idW4GZaB-5_6.svg" alt="Tableau" width="40"/><br>Tableau | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/power-bi.svg" alt="Power BI" width="40"/><br>Power BI | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/amazon-s3.svg" alt="AWS S3" width="40"/><br>AWS S3 | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/aws-redshift-logo.svg" alt="Amazon Redshift" width="40"/><br>Amazon Redshift |
 |:---:|:---:|:---:|:---:|
-| <img src="URL_TO_GOOGLEANALYTICS_LOGO" alt="Google Analytics" width="40"/><br>Google Analytics | <img src="URL_TO_LOOKER_LOGO" alt="Looker" width="40"/><br>Looker | <img src="URL_TO_SNOWFLAKE_LOGO" alt="Snowflake" width="40"/><br>Snowflake | <img src="URL_TO_BIGQUERY_LOGO" alt="BigQuery" width="40"/><br>BigQuery |
-| <img src="URL_TO_MICROSOFTSUITE_LOGO" alt="Microsoft Suite" width="40"/><br>Microsoft Suite | <img src="URL_TO_SALESFORCECRM_LOGO" alt="Salesforce CRM" width="40"/><br>Salesforce CRM |
+| <img src="https://github.com/IamUnmona/IamUnmona/blob/main/google-analytics-4.svg" alt="Google Analytics" width="40"/><br>Google Analytics | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/looker-1.svg" alt="Looker" width="40"/><br>Looker | <img src="URL_TO_SNOWFLAKE_LOGO" alt="Snowflake" width="40"/><br>Snowflake | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/google-bigquery-logo-1.svg" alt="BigQuery" width="40"/><br>BigQuery |
+| <img src="https://github.com/IamUnmona/IamUnmona/blob/main/microsoft-6.svg" alt="Microsoft Suite" width="40"/><br>Microsoft Suite | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/salesforce-2.svg" alt="Salesforce CRM" width="40"/><br>Salesforce CRM |
 
 ### Project Management
-| <img src="URL_TO_QUIP_LOGO" alt="Quip" width="40"/><br>Quip | <img src="URL_TO_JIRA_LOGO" alt="Jira" width="40"/><br>Jira | <img src="URL_TO_GITHUB_LOGO" alt="GitHub" width="40"/><br>GitHub | <img src="URL_TO_SCRUM_LOGO" alt="Scrum" width="40"/><br>Scrum |
+| <img src="URL_TO_QUIP_LOGO" alt="Quip" width="40"/><br>Quip | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/jira-3.svg" alt="Jira" width="40"/><br>Jira | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/github-2.svg" alt="GitHub" width="40"/><br>GitHub | 
 |:---:|:---:|:---:|:---:|
-| <img src="URL_TO_GOOGLESUITE_LOGO" alt="Google Suite" width="40"/><br>Google Suite |
+| <img src="https://github.com/IamUnmona/IamUnmona/blob/main/google-suite-logo.svg" alt="Google Suite" width="40"/><br>Google Suite |
 
 ### Core Competencies
 - Data Analysis
