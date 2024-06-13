@@ -41,6 +41,26 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 ### Core Competencies
 
 
+### Core Competencies Diagram
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```mermaid
 graph TD;
@@ -51,29 +71,3 @@ graph TD;
     DV --> ML[Machine Learning]
     ML --> PM[Program Management]
     PM --> RA[Risk Analysis]
-
-
-
-
-
-
-
-
-
-
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=iamUnmona&show_icons=true&theme=radical)
-
-## 📈 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamUnmona&layout=compact&theme=vue)
-
-
-## 📬 Get in Touch
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Unmona_Das-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/unmonadas/)
-- Email: [unmona.das@utdallas.edu](mailto:unmona.das@utdallas.edu)
-
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=iamUnmona&style=flat-square&color=blueviolet)
-
-
