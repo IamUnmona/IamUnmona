@@ -41,7 +41,20 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 ### Core Competencies
 
 
-### Core Competencies Diagram
+
+
+
+
+<div>
+  <h3>Data Analysis</h3>
+  <div style="background-color: #ddd;">
+    <div style="width: 90%; background-color: #4CAF50; padding: 10px; color: white;">Advanced</div>
+  </div>
+  <h3>Machine Learning</h3>
+  <div style="background-color: #ddd;">
+    <div style="width: 75%; background-color: #2196F3; padding: 10px; color: white;">Intermediate</div>
+  </div>
+</div>
 
 
 
@@ -60,24 +73,6 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 
 
 
-
-```mermaid
-graph TD;
-    DA[Data Analysis] -->|leads to| DM[Data Modelling]
-    DM -->|leads to| SA[Statistical Analysis]
-    SA -->|leads to| DPA[Descriptive & Prescriptive Analytics]
-    DPA -->|leads to| DV[Data Visualization]
-    DV -->|leads to| ML[Machine Learning]
-    ML -->|leads to| PM[Program Management]
-    PM -->|leads to| RA[Risk Analysis]
-    style DA fill:#f9f,stroke:#333,stroke-width:2px
-    style DM fill:#f9f,stroke:#333,stroke-width:2px
-    style SA fill:#f9f,stroke:#333,stroke-width:2px
-    style DPA fill:#f9f,stroke:#333,stroke-width:2px
-    style DV fill:#f9f,stroke:#333,stroke-width:2px
-    style ML fill:#f9f,stroke:#333,stroke-width:2px
-    style PM fill:#f9f,stroke:#333,stroke-width:2px
-    style RA fill:#f9f,stroke:#333,stroke-width:2px
 
 
 
