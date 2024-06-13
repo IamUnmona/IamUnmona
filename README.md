@@ -24,7 +24,7 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 ## Skills Summary
 
 ### Programming
-| <img src="https://github.com/IamUnmona/IamUnmona/blob/main/Python%20Software%20Foundation_idixzIbrOi_2.svg" alt="Python3" width="40"/><br>Python3 | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/Oracle%20MySQL_idtlXpo9bo_1.svg" alt="MySQL" width="40"/><br>MySQL | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/PostgreSQL_idG_UafUz7_2.svg" alt="PostgreSQL" width="40"/><br>PostgreSQL | <img src(https://github.com/IamUnmona/IamUnmona/blob/main/r-lang.svg)" alt="R" width="40"/><br>R |
+| <img src="https://github.com/IamUnmona/IamUnmona/blob/main/Python%20Software%20Foundation_idixzIbrOi_2.svg" alt="Python3" width="40"/><br>Python3 | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/Oracle%20MySQL_idtlXpo9bo_1.svg" alt="MySQL" width="40"/><br>MySQL | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/PostgreSQL_idG_UafUz7_2.svg" alt="PostgreSQL" width="40"/><br>PostgreSQL | <img src"(https://github.com/IamUnmona/IamUnmona/blob/main/r-lang.svg)" alt="R" width="40"/><br>R |
 |:---:|:---:|:---:|:---:|
 
 ### Data Analytics and Visualization
