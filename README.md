@@ -28,8 +28,7 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 |:---:|:---:|:---:|:---:|
 
 ### Data Analytics and Visualization
-| <img src="https://github.com/IamUnmona/IamUnmona/blob/main/Tableau_idW4GZaB-5_6.svg" alt="Tableau" width="40"/><br>Tableau | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/power-bi.svg" alt="Power BI" width="40"/><br>Power BI | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/amazon-s3.svg" alt="AWS S3" width="40"/><br>AWS S3 | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/aws-redshift-logo.svg" alt="Amazon Redshift" width="40"/><br>Amazon Redshift |
-|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/IamUnmona/IamUnmona/blob/main/Tableau_idW4GZaB-5_6.svg" alt="Tableau" width="40"/><br>Tableau | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/power-bi.svg" alt="Power BI" width="40"/><br>Power BI | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/amazon-s3.svg" alt="AWS S3" width="40"/><br>AWS S3 | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/aws-redshift-logo.svg" alt="Amazon Redshift" width="40"/><br>Amazon Redshift
 | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/google-analytics-4.svg" alt="Google Analytics" width="40"/><br>Google Analytics | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/looker-1.svg" alt="Looker" width="40"/><br>Looker | <img src="URL_TO_SNOWFLAKE_LOGO" alt="Snowflake" width="40"/><br>Snowflake | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/google-bigquery-logo-1.svg" alt="BigQuery" width="40"/><br>BigQuery |
 | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/microsoft-6.svg" alt="Microsoft Suite" width="40"/><br>Microsoft Suite | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/salesforce-2.svg" alt="Salesforce CRM" width="40"/><br>Salesforce CRM |
 
