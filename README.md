@@ -23,26 +23,43 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 
 ## Skills Summary
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+## Skills Summary
+
+### Programming Languages
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30"/>
+<img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="30"/>
+<img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="30"/>
+<img src="https://simpleicons.org/icons/r.svg" alt="R" width="30"/>
 
 ### Data Analytics and Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+<img src="https://simpleicons.org/icons/tableau.svg" alt="Tableau" width="30"/>
+<img src="https://simpleicons.org/icons/powerbi.svg" alt="Power BI" width="30"/>
+<img src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS" width="30"/>
+<img src="https://simpleicons.org/icons/googleanalytics.svg" alt="Google Analytics" width="30"/>
+<img src="https://simpleicons.org/icons/looker.svg" alt="Looker" width="30"/>
+<img src="https://simpleicons.org/icons/snowflake.svg" alt="Snowflake" width="30"/>
+<img src="https://simpleicons.org/icons/bigquery.svg" alt="BigQuery" width="30"/>
+<img src="https://simpleicons.org/icons/microsoftoffice.svg" alt="Microsoft Suite" width="30"/>
+<img src="https://simpleicons.org/icons/salesforce.svg" alt="Salesforce" width="30"/>
 
 ### Project Management
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-0081CB?style=flat-square&logo=scrumalliance&logoColor=white)
+<img src="https://simpleicons.org/icons/quip.svg" alt="Quip" width="30"/>
+<img src="https://simpleicons.org/icons/jira.svg" alt="Jira" width="30"/>
+<img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="30"/>
+<img src="https://simpleicons.org/icons/scrumpowered.svg" alt="Scrum" width="30"/>
+<img src="https://simpleicons.org/icons/google.svg" alt="Google Suite" width="30"/>
 
 ### Core Competencies
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF9E0F?style=flat-square)
-![Data Modelling](https://img.shields.io/badge/Data_Modelling-FF6384?style=flat-square)
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-FF6384?style=flat-square)
+- Data Analysis
+- Data Modelling
+- Statistical Analysis
+- Descriptive and Prescriptive Analytics
+- Data Mining
+- Data Visualization
+- Machine Learning
+- Program Management
+- Risk Analysis
+
 
 
 ## 📊 GitHub Stats
