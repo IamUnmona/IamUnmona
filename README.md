@@ -24,26 +24,19 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 ## Skills Summary
 
 ### Programming
-
-
-![Python3 Logo](https://github.com/IamUnmona/IamUnmona/blob/main/Python%20Software%20Foundation_idixzIbrOi_2.svg)
-
-| <img src="https://brandfetch.com/python.org?library=default&collection=logos&asset=idixzIbrOi&view=overview" alt="Python3" width="40"/> |
-
-https://brandfetch.com/python.org?library=default&collection=logos&asset=idixzIbrOi&view=overview
-| <img src="https://simpleicons.org/icons/python.svg" alt="Python3" width="30"/> Python3 | <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="30"/> MySQL | <img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="30"/> PostgreSQL | <img src="https://simpleicons.org/icons/r.svg" alt="R" width="30"/> R |
+| <img src="https://github.com/IamUnmona/IamUnmona/blob/main/Python%20Software%20Foundation_idixzIbrOi_2.svg" alt="Python3" width="40"/><br>Python3 | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/Oracle%20MySQL_idtlXpo9bo_1.svg" alt="MySQL" width="40"/><br>MySQL | <img src="https://github.com/IamUnmona/IamUnmona/blob/main/PostgreSQL_idG_UafUz7_2.svg" alt="PostgreSQL" width="40"/><br>PostgreSQL | <img src(https://github.com/IamUnmona/IamUnmona/blob/main/r-lang.svg)" alt="R" width="40"/><br>R |
 |:---:|:---:|:---:|:---:|
 
 ### Data Analytics and Visualization
-| <img src="https://simpleicons.org/icons/tableau.svg" alt="Tableau" width="30"/> Tableau | <img src="https://simpleicons.org/icons/powerbi.svg" alt="Power BI" width="30"/> Power BI | <img src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS S3" width="30"/> AWS S3 | <img src="https://simpleicons.org/icons/amazonredshift.svg" alt="Amazon Redshift" width="30"/> Amazon Redshift |
+| <img src="URL_TO_TABLEAU_LOGO" alt="Tableau" width="40"/><br>Tableau | <img src="URL_TO_POWERBI_LOGO" alt="Power BI" width="40"/><br>Power BI | <img src="URL_TO_AWSS3_LOGO" alt="AWS S3" width="40"/><br>AWS S3 | <img src="URL_TO_AMAZONREDSHIFT_LOGO" alt="Amazon Redshift" width="40"/><br>Amazon Redshift |
 |:---:|:---:|:---:|:---:|
-| <img src="https://simpleicons.org/icons/googleanalytics.svg" alt="Google Analytics" width="30"/> Google Analytics | <img src="https://simpleicons.org/icons/looker.svg" alt="Looker" width="30"/> Looker | <img src="https://simpleicons.org/icons/snowflake.svg" alt="Snowflake" width="30"/> Snowflake | <img src="https://simpleicons.org/icons/googlebigquery.svg" alt="BigQuery" width="30"/> BigQuery |
-| <img src="https://simpleicons.org/icons/microsoft.svg" alt="Microsoft Suite" width="30"/> Microsoft Suite | <img src="https://simpleicons.org/icons/salesforce.svg" alt="Salesforce" width="30"/> Salesforce CRM |
+| <img src="URL_TO_GOOGLEANALYTICS_LOGO" alt="Google Analytics" width="40"/><br>Google Analytics | <img src="URL_TO_LOOKER_LOGO" alt="Looker" width="40"/><br>Looker | <img src="URL_TO_SNOWFLAKE_LOGO" alt="Snowflake" width="40"/><br>Snowflake | <img src="URL_TO_BIGQUERY_LOGO" alt="BigQuery" width="40"/><br>BigQuery |
+| <img src="URL_TO_MICROSOFTSUITE_LOGO" alt="Microsoft Suite" width="40"/><br>Microsoft Suite | <img src="URL_TO_SALESFORCECRM_LOGO" alt="Salesforce CRM" width="40"/><br>Salesforce CRM |
 
 ### Project Management
-| <img src="https://simpleicons.org/icons/quip.svg" alt="Quip" width="30"/> Quip | <img src="https://simpleicons.org/icons/jira.svg" alt="Jira" width="30"/> Jira | <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="30"/> GitHub | <img src="https://simpleicons.org/icons/scrumpowered.svg" alt="Scrum" width="30"/> Scrum |
+| <img src="URL_TO_QUIP_LOGO" alt="Quip" width="40"/><br>Quip | <img src="URL_TO_JIRA_LOGO" alt="Jira" width="40"/><br>Jira | <img src="URL_TO_GITHUB_LOGO" alt="GitHub" width="40"/><br>GitHub | <img src="URL_TO_SCRUM_LOGO" alt="Scrum" width="40"/><br>Scrum |
 |:---:|:---:|:---:|:---:|
-| <img src="https://simpleicons.org/icons/google.svg" alt="Google Suite" width="30"/> Google Suite |
+| <img src="URL_TO_GOOGLESUITE_LOGO" alt="Google Suite" width="40"/><br>Google Suite |
 
 ### Core Competencies
 - Data Analysis
