@@ -1,5 +1,8 @@
 ### Unmona Das
 
+![Creative Portfolio](/Users/unmonadas/Desktop/11-ezgif.com-optimize.gif)
+
+
 **Contact**: +1 623-284-4870  
 <a href="mailto:unmona.das@utdallas.edu"><img src="https://simpleicons.org/icons/mail-dot-ru.svg" alt="Email" width="30"/></a>  
 <a href="https://www.linkedin.com/in/your-profile"><img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="30"/></a>  
