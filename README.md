@@ -39,15 +39,31 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 
 
 ### Core Competencies
-- Data Analysis
-- Data Modelling
-- Statistical Analysis
-- Descriptive and Prescriptive Analytics
-- Data Mining
-- Data Visualization
-- Machine Learning
-- Program Management
-- Risk Analysis
+### Core Competencies
+
+<table>
+<tr>
+    <td><img src="https://github.com/IamUnmona/IamUnmona/blob/main/icons/data-analysis.svg" alt="Data Analysis" width="30"/> <strong>Data Analysis</strong></td>
+    <td><img src="https://github.com/IamUnmona/IamUnmona/blob/main/icons/statistical-analysis.svg" alt="Statistical Analysis" width="30"/> <strong>Statistical Analysis</strong></td>
+</tr>
+<tr>
+    <td><img src="https://github.com/IamUnmona/IamUnmona/blob/main/icons/data-modelling.svg" alt="Data Modelling" width="30"/> <strong>Data Modelling</strong></td>
+    <td><img src="https://github.com/IamUnmona/IamUnmona/blob/main/icons/descriptive-analytics.svg" alt="Descriptive Analytics" width="30"/> <strong>Descriptive and Prescriptive Analytics</strong></td>
+</tr>
+<tr>
+    <td><img src="https://github.com/IamUnmona/IamUnmona/blob/main/icons/data-mining.svg" alt="Data Mining" width="30"/> <strong>Data Mining</strong></td>
+    <td><img src="https://github.com/IamUnmona/IamUnmona/blob/main/icons/data-visualization.svg" alt="Data Visualization" width="30"/> <strong>Data Visualization</strong></td>
+</tr>
+<tr>
+    <td><img src="https://github.com/IamUnmona/IamUnmona/blob/main/icons/machine-learning.svg" alt="Machine Learning" width="30"/> <strong>Machine Learning</strong></td>
+    <td><img src="https://github.com/IamUnmona/IamUnmona/blob/main/icons/program-management.svg" alt="Program Management" width="30"/> <strong>Program Management</strong></td>
+</tr>
+<tr>
+    <td><img src="https://github.com/IamUnmona/IamUnmona/blob/main/icons/risk-analysis.svg" alt="Risk Analysis" width="30"/> <strong>Risk Analysis</strong></td>
+    <td></td>
+</tr>
+</table>
+
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=iamUnmona&show_icons=true&theme=radical)
