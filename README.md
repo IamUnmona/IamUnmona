@@ -39,6 +39,9 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 
 
 ### Core Competencies
+
+
+
 ```mermaid
 graph TD;
     DA[Data Analysis] --> DM[Data Modelling]
@@ -48,6 +51,15 @@ graph TD;
     DV --> ML[Machine Learning]
     ML --> PM[Program Management]
     PM --> RA[Risk Analysis]
+
+
+
+
+
+
+
+
+
 
 
 ## 📊 GitHub Stats
