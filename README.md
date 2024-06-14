@@ -9,7 +9,7 @@
 
 <div align="center">
 
-# Hello, I'm Unmona Das! 👋
+# Hello, I'm Unmona! 👋
 
 ## Data Science Enthusiast | Explorer of AI and Machine Learning
 
