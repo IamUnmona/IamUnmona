@@ -38,19 +38,6 @@ I'm a data science enthusiast who is passionate about using technology to solve 
 |:---:|:---:|:---:|
 
 
-### Core Competencies
-
-| Competency                    | Description                                             | Proficiency Level |
-|-------------------------------|---------------------------------------------------------|-------------------|
-| **Data Analysis**             | Analyzing datasets to find insights and trends.         | Expert            |
-| **Data Modelling**            | Developing data models for database structures.         | Advanced          |
-| **Statistical Analysis**      | Applying statistical techniques to analyze data sets.   | Advanced          |
-| **Descriptive Analytics**     | Describing historical data through analysis.            | Intermediate      |
-| **Prescriptive Analytics**    | Suggesting actions based on data analyses.              | Intermediate      |
-| **Data Visualization**        | Creating graphical representations of data.             | Advanced          |
-| **Machine Learning**          | Building and training models for prediction and analysis.| Intermediate     |
-| **Program Management**        | Managing multiple related projects to improve performance.| Experienced   |
-| **Risk Analysis**             | Identifying and analyzing potential risks.              | Experienced      |
 
 
 ## 🔤 Most Used Languages
